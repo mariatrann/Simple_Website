@@ -1,0 +1,70 @@
+/* Styles for the Form */
+main fieldset {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding-top: .5em;
+	border: 1px solid black;
+}
+main legend {
+	color: black;
+	font-weight: bold;
+	font-size: 100%;
+	padding: .5em;
+}
+main label {
+	font-size: 90%;
+}
+main br {
+	clear: both;
+}
+
+/* Styles for the Buttons */
+main #buttons input {
+	width: 10em;
+	background-color: #ea90ac;
+	border: none;
+	line-height: 2.5;
+	box-shadow: 0 3px 3px 0;
+	margin-right: 10px;
+}
+main #surprise input {
+	width: 10em;
+	border: none;
+	line-height: 2.5;
+	box-shadow: 0 3px 3px 0;
+	margin-right: 10px;
+	background-color: #f3bfd6;
+}
+
+/* The styles for the Input Text */
+#mylabel {
+	float: left;
+	width: 9em;
+	text-align: right;
+}
+input:required {
+	border: 1px solid red;
+}
+
+/* The styles for the Dropdown List*/
+select {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* The styles for the Textarea */
+textarea {
+	width: 30em;
+	height: 7em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The styles for the Aside */
+aside #sidebarA {
+	height: 789px;
+}
+
+aside form {
+	font-size: 95%;
+	padding-left: 10px;
+}

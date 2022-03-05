@@ -1,0 +1,152 @@
+/* Styles for the page */
+main {
+	height: 670px;
+}
+
+aside #sidebarA {
+	height: 638px;
+}
+
+aside #sidebarB figcaption {
+	margin-right: 10px;
+	width: 160px;
+}
+
+/* Styles for the Pictures in Main */
+.table {
+	width: 87px;
+	margin-right: 0;
+	text-align: center;
+	vertical-align: top;
+	display: inline-block;
+}
+.caption {
+	display: block;
+}
+
+#image1 {
+	background-image: url("../images/dantes1.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image1:hover {
+	background-image: url("../images/dantes2.png");
+	border: 1px solid black;
+}
+
+#image2 {
+	background-image: url("../images/gil1.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image2:hover {
+	background-image: url("../images/gil1-2.png");
+	border: 1px solid black;
+}
+
+#image3 {
+	background-image: url("../images/merlin1.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image3:hover {
+	background-image: url("../images/merlin2.png");
+	border: 1px solid black;
+}
+
+#image4 {
+	background-image: url("../images/arthur1.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image4:hover {
+	background-image: url("../images/arthur2.png");
+	border: 1px solid black;
+}
+
+#image5 {
+	background-image: url("../images/qin1.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image5:hover {
+	background-image: url("../images/qin2.png");
+	border: 1px solid black;
+}
+
+#image6 {
+	background-image: url("../images/skadi1.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image6:hover {
+	background-image: url("../images/skadi2.png");
+	border: 1px solid black;
+}
+
+#image7 {
+	background-image: url("../images/gil2.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image7:hover {
+	background-image: url("../images/gil2-2.png");
+	border: 1px solid black;
+}
+
+#image8 {
+	background-image: url("../images/ashiya1.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image8:hover {
+	background-image: url("../images/ashiya2.png");
+	border: 1px solid black;
+}
+
+#image9 {
+	background-image: url("../images/cu1.png");
+	border: 1px solid black;
+	width: 85px;
+	height: 90px;
+}
+#image9:hover {
+	background-image: url("../images/cu2.png");
+	border: 1px solid black;
+}
+
+
+/* Styles for Side Bar B */
+#image10 {
+	background-image: url("../images/gil3.png");
+	border: 1px solid black;
+	width: 140px;
+	height: 224px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#image10:hover {
+	background-image: url("../images/gil4.png");
+	border: 1px solid black;
+}
+
+#image11 {
+	background-image: url("../images/gilcaster1.png");
+	border: 1px solid black;
+	width: 140px;
+	height: 224px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#image11:hover {
+	background-image: url("../images/gilcaster2.png");
+	border: 1px solid black;
+}
